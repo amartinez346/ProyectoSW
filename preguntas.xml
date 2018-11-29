@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<assessmentItems>
+	<assessmentItem subject="Web" author="jvadillo001@ikasle.ehu.eus">
+		<itemBody>
+			<p>Tag HTML para a&#xF1;adir un formulario</p>
+		</itemBody>
+		<correctResponse>
+			<value>
+				FORM
+			</value>
+		</correctResponse>
+		<incorrectResponses>
+			<value> OBJECT </value>
+			<value> TABLE </value>
+			<value> DIV </value>
+		</incorrectResponses>
+	</assessmentItem>
+	<assessmentItem subject="Internet" author="rarruabarrena001@ikasle.ehu.eus">
+		<itemBody>
+			<p>Este protocolo acabar&#xE1; funcionando
+			incluso entre dos latas unidas por un cord&#xF3;n</p>
+		</itemBody>
+		<correctResponse>
+			<value>
+				TCP/IP
+			</value>
+		</correctResponse>
+		<incorrectResponses>
+			<value> HTTP </value>
+			<value> SMTP </value>
+			<value> Ninguna es correcta </value>
+		</incorrectResponses>
+	</assessmentItem>
+	<assessmentItem subject="2" author="aitor234@ikasle.ehu.eus">
+		<itemBody>
+			<p>lapruebadefinal222</p>
+		</itemBody>
+		<correctResponse>
+			<value>222</value>
+		</correctResponse>
+		<incorrectResponses>
+			<value>22</value>
+			<value>22</value>
+			<value>22</value>
+		</incorrectResponses>
+	</assessmentItem>
+	<assessmentItem subject="prueba" author="aitor234@ikasle.ehu.eus">
+		<itemBody>
+			<p>Preuba de aitor234</p>
+		</itemBody>
+		<correctResponse>
+			<value>bien</value>
+		</correctResponse>
+		<incorrectResponses>
+			<value>mal</value>
+			<value>mal</value>
+			<value>mal</value>
+		</incorrectResponses>
+	</assessmentItem>
+<assessmentItem subject="4" author="aitor234@ikasle.ehu.eus"><itemBody><p>4444444444</p></itemBody><correctResponse><value>4</value></correctResponse><incorrectResponses><value>4</value><value>4</value><value>4</value></incorrectResponses></assessmentItem><assessmentItem subject="x" author="aitor234@ikasle.ehu.eus"><itemBody><p>xxxxxxxxxx</p></itemBody><correctResponse><value>x</value></correctResponse><incorrectResponses><value>x</value><value>x</value><value>x</value></incorrectResponses></assessmentItem><assessmentItem subject="m" author="aitor234@ikasle.ehu.eus"><itemBody><p>mmmmmmmmmm</p></itemBody><correctResponse><value>m</value></correctResponse><incorrectResponses><value>m</value><value>m</value><value>m</value></incorrectResponses></assessmentItem><assessmentItem subject="w" author="aitor234@ikasle.ehu.eus"><itemBody><p>qqqqqqqqqqqqqqqq</p></itemBody><correctResponse><value>q</value></correctResponse><incorrectResponses><value>q</value><value>q</value><value>q</value></incorrectResponses></assessmentItem><assessmentItem subject="" author="aitor234@ikasle.ehu.eus"><itemBody><p/></itemBody><correctResponse><value/></correctResponse><incorrectResponses><value/><value/><value/></incorrectResponses></assessmentItem><assessmentItem subject="d" author="aitor234@ikasle.ehu.eus"><itemBody><p>sfsdfsdfdddd</p></itemBody><correctResponse><value>f</value></correctResponse><incorrectResponses><value>ff</value><value>f</value><value>f</value></incorrectResponses></assessmentItem><assessmentItem subject="l" author="aitor234@ikasle.ehu.eus"><itemBody><p>dfsfasdfadsdf</p></itemBody><correctResponse><value>dsfasd</value></correctResponse><incorrectResponses><value>l</value><value>l</value><value>l</value></incorrectResponses></assessmentItem><assessmentItem subject="q" author="aitor234@ikasle.ehu.eus"><itemBody><p>dasdadadsdaadsda</p></itemBody><correctResponse><value>q</value></correctResponse><incorrectResponses><value>q</value><value>q</value><value>q</value></incorrectResponses></assessmentItem><assessmentItem subject="t" author="aitor234@ikasle.ehu.eus"><itemBody><p>tttttttttttttt</p></itemBody><correctResponse><value>t</value></correctResponse><incorrectResponses><value>t</value><value>t</value><value>t</value></incorrectResponses></assessmentItem><assessmentItem subject="1" author="aitor234@ikasle.ehu.eus"><itemBody><p>111111111111111</p></itemBody><correctResponse><value>1</value></correctResponse><incorrectResponses><value>1</value><value>1</value><value>1</value></incorrectResponses></assessmentItem><assessmentItem subject="q" author="aitor234@ikasle.ehu.eus"><itemBody><p>aaaaqqqqqqqqqqqqqqq</p></itemBody><correctResponse><value>q</value></correctResponse><incorrectResponses><value>q</value><value>q</value><value>q</value></incorrectResponses></assessmentItem><assessmentItem subject="2" author="aitor234@ikasle.ehu.eus"><itemBody><p>2222222222222222</p></itemBody><correctResponse><value>2</value></correctResponse><incorrectResponses><value>2</value><value>2</value><value>2</value></incorrectResponses></assessmentItem><assessmentItem subject="q" author="aitor234@ikasle.ehu.eus"><itemBody><p>aaaaaaaaaaaaaaaa</p></itemBody><correctResponse><value>a</value></correctResponse><incorrectResponses><value>a</value><value>a</value><value>a</value></incorrectResponses></assessmentItem><assessmentItem subject="2" author="aitor234@ikasle.ehu.eus"><itemBody><p>222222222222222</p></itemBody><correctResponse><value>2</value></correctResponse><incorrectResponses><value>2</value><value>2</value><value>2</value></incorrectResponses></assessmentItem><assessmentItem subject="y" author="aitor234@ikasle.ehu.eus"><itemBody><p>yyyyyyyyyyyyy</p></itemBody><correctResponse><value>y</value></correctResponse><incorrectResponses><value>y</value><value>y</value><value>y</value></incorrectResponses></assessmentItem><assessmentItem subject="x" author="aitor234@ikasle.ehu.eus"><itemBody><p>zzzzzzzzzzzzzzz</p></itemBody><correctResponse><value>z</value></correctResponse><incorrectResponses><value>z</value><value>z</value><value>z</value></incorrectResponses></assessmentItem><assessmentItem subject="sdsaasdas" author="gsalaberria003@ikasle.ehu.eus"><itemBody><p>dfsdfdsfsfsdfsdfsd</p></itemBody><correctResponse><value>dsfdfdsffs</value></correctResponse><incorrectResponses><value>fsfsd</value><value>fsdfsd</value><value>fsfdsfs</value></incorrectResponses></assessmentItem><assessmentItem subject="&#xF1;" author="gsalaberria003@ikasle.ehu.eus"><itemBody><p>&#xF1;&#xF1;&#xF1;&#xF1;&#xF1;&#xF1;&#xF1;&#xF1;&#xF1;&#xF1;&#xF1;&#xF1;&#xF1;&#xF1;&#xF1;</p></itemBody><correctResponse><value>&#xF1;</value></correctResponse><incorrectResponses><value>&#xF1;</value><value>&#xF1;</value><value>&#xF1;</value></incorrectResponses></assessmentItem><assessmentItem subject="g" author="gsalaberria003@ikasle.ehu.eus"><itemBody><p>gggggggggggggggggg</p></itemBody><correctResponse><value>g</value></correctResponse><incorrectResponses><value>g</value><value>gg</value><value>g</value></incorrectResponses></assessmentItem><assessmentItem subject="ddd" author="gsalaberria003@ikasle.ehu.eus"><itemBody><p>ggggggggggggggggggg</p></itemBody><correctResponse><value>gggggggggggggggggggG</value></correctResponse><incorrectResponses><value>GdD</value><value>dd</value><value>dd</value></incorrectResponses></assessmentItem><assessmentItem subject="r" author="gsalaberria003@ikasle.ehu.eus"><itemBody><p>rrrrrrrrrrrrrrrrrr</p></itemBody><correctResponse><value>r</value></correctResponse><incorrectResponses><value>r</value><value>r</value><value>r</value></incorrectResponses></assessmentItem><assessmentItem subject="a" author="gsalaberria003@ikasle.ehu.eus"><itemBody><p>aaaaaaaaaaaaaaa</p></itemBody><correctResponse><value>a</value></correctResponse><incorrectResponses><value>a</value><value>a</value><value>a</value></incorrectResponses></assessmentItem><assessmentItem subject="t" author="gsalaberria003@ikasle.ehu.eus"><itemBody><p>ttttttttttttttttttt</p></itemBody><correctResponse><value>qwet6yuiotptt</value></correctResponse><incorrectResponses><value>tttttt</value><value>t</value><value>t</value></incorrectResponses></assessmentItem><assessmentItem subject="w" author="gsalaberria003@ikasle.ehu.eus"><itemBody><p>wwaawwwwwwwwww&#xBA;ww&#xBA;</p></itemBody><correctResponse><value>w</value></correctResponse><incorrectResponses><value>w</value><value>w</value><value>w</value></incorrectResponses></assessmentItem><assessmentItem subject="ddddddd" author="gsalaberria003@ikasle.ehu.eus"><itemBody><p>ddddddddddddddd</p></itemBody><correctResponse><value>d</value></correctResponse><incorrectResponses><value>d</value><value>d</value><value>d</value></incorrectResponses></assessmentItem></assessmentItems>

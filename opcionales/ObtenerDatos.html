@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta name="tipo_contenido" content="text/html;" http-equiv="content-type" charset="utf-8">
+		<title>Lista correos</title>
+	</head>
+	<body>
+		<script src="../libreria/jquery-3.3.1.js"></script>
+		<script type="text/javascript">
+			$(document).ready(function() {
+				$.get('usuarios.xml', function(d){
+					var listacorreos = $(d).find('email');
+					for (var i = 0; i < listacorreos.length; i++)
+					{
+						$('#lista').append($('<option>',{
+							value: listacorreos[i].childNodes[0].nodeValue,
+							text: listacorreos[i].childNodes[0].nodeValue
+						}));
+					}
+				})				
+			});			
+		</script>
+		<h1>Lista de correos obtenida de un fichero xml ...</h1>
+		<h2>Lista Correos electronicos</h2><br>
+		<select id="lista" name="lista" ></select>
+		</br>
+		</br>		
+		<form id='datos' name='datos' action='ObtenerDatos.html' method="POST">
+			<div>
+				Email:
+				<input type="text" class="form-control" id="Email" name="Email" placeholder=""/>
+			</div>
+			</br>
+			<div>
+				Nombre:
+				<input type="text" class="form-control" id="Nombre" name="Nombre"/>
+			</div>
+			</br>
+			<div>
+				Apellido 1:
+				<input type="text" class="form-control" id="Apellido1" name="Apellido1"/>
+			</div>
+			</br>
+			<div>
+				Apellido 2:
+				<input type="text" class="form-control" id="Apellido2" name="Apellido2"/>
+			</div>
+			</br>
+			<div>
+				Telefono:
+				<input type="text" class="form-control" id="Telefono" name="Telefono"/>
+			</div>
+			</br>
+			<div class="button">
+				<button type="submit" id="Boton" name="submit" >Usuarios</button>
+			</div>
+		</form>
+		
+		
+		
+	</body>
+</html>
